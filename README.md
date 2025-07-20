@@ -10,8 +10,12 @@
 </pre>
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](./LICENSE)
-[![Nuxt 3](https://img.shields.io/badge/Nuxt-3.x-green.svg)](https://nuxt.com/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-blue.svg)](https://tailwindcss.com/)
+[![Nuxt 3](https://img.shields.io/badge/Nuxt-3.x-00DC82?logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
+[![Vue 3](https://img.shields.io/badge/Vue-3.x-42b883?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-3.x-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 </div>
 
 **ExaPub** est une agence digitale spécialisée dans la communication visuelle, le branding, l'impression grand format, la signalétique et la création d'identité visuelle. Ce site vitrine présente nos services, réalisations et permet de nous contacter facilement.
