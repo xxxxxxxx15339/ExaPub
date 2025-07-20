@@ -120,11 +120,7 @@ Distribué sous licence ISC. Voir [LICENSE](./LICENSE) pour plus de détails.
 
 ## 👤 Auteur & Contact
 
-**ExaPub Digital Agency**  
-Massira II, Marrakech  
-📧 hello@exapub.com  
-📱 +212 662-751645  
-[Instagram](https://instagram.com/exapub) | [Facebook](https://www.facebook.com/100038285030820/about/?_rdr)
+**Yasser** – [GitHub](https://github.com/xxxxxxxx15339)
 
 ---
 
