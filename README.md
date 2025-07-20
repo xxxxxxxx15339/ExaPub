@@ -7,8 +7,6 @@
 ███████╗██╔╝ ██╗██║  ██║██║     ╚██████╔╝██████╔╝
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═════╝ 
                                                                                        
----------------------------------------------------------
-ExaPub – Agence digitale & communication visuelle (Nuxt 3)
 </pre>
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](./LICENSE)
